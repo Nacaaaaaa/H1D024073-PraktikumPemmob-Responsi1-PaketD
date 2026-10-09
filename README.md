@@ -1,4 +1,4 @@
-# Aplikasi Ekplorasi Digimon 🦖
+# Aplikasi Ekplorasi Digimon
 
 Aplikasi ini merupakan tugas Responsi Praktikum Pemrograman Mobile. Aplikasi ini menampilkan daftar karakter Digimon beserta detailnya dengan mengambil data dari API Publik.
 
@@ -21,12 +21,9 @@ Aplikasi ini dirancang dengan berfokus pada efisiensi, menerapkan manajemen stat
 ---
 
 ## Screenshot Aplikasi
-
-*(Silakan ganti URL placeholder di bawah ini dengan path gambar atau link screenshot yang Anda miliki)*
-
 | Home Screen | Detail Screen |
 | :---: | :---: |
-| <img src="URL_ATAU_PATH_SCREENSHOT_HOME_DISINI" width="250"> | <img src="URL_ATAU_PATH_SCREENSHOT_DETAIL_DISINI" width="250"> |
+| <img src="TampilanListDigimon.jpg" width="250"> | <img src="TampilanDetailDigimon.jpg" width="250"> |
 
 ---
 
